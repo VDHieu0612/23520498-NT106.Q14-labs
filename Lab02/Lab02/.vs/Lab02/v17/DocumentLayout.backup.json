@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTM\\LAB02\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|D:\\LTM\\LAB02\\Lab02\\lab02\\exercises\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|solutionrelative:lab02\\exercises\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|d:\\ltm\\lab02\\lab02\\lab02\\exercises\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|solutionrelative:lab02\\exercises\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|d:\\ltm\\lab02\\lab02\\lab02\\input-output\\input4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3742CE03-E83D-4FE7-BDC2-734B7524FB70}|Lab02\\Lab02.csproj|solutionrelative:lab02\\input-output\\input4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input4.txt",
+              "DocumentMoniker": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Input-Output\\input4.txt",
+              "RelativeDocumentMoniker": "Lab02\\Input-Output\\input4.txt",
+              "ToolTip": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Input-Output\\input4.txt",
+              "RelativeToolTip": "Lab02\\Input-Output\\input4.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-22T02:24:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab02_Bai06.cs",
+              "DocumentMoniker": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Exercises\\Lab02_Bai06.cs",
+              "RelativeDocumentMoniker": "Lab02\\Exercises\\Lab02_Bai06.cs",
+              "ToolTip": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Exercises\\Lab02_Bai06.cs",
+              "RelativeToolTip": "Lab02\\Exercises\\Lab02_Bai06.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:19:23.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab02_Bai04.cs",
+              "DocumentMoniker": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Exercises\\Lab02_Bai04.cs",
+              "RelativeDocumentMoniker": "Lab02\\Exercises\\Lab02_Bai04.cs",
+              "ToolTip": "D:\\LTM\\LAB02\\Lab02\\Lab02\\Exercises\\Lab02_Bai04.cs",
+              "RelativeToolTip": "Lab02\\Exercises\\Lab02_Bai04.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T00:59:17.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
