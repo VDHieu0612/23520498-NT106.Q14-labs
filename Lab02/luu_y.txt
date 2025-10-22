@@ -1,0 +1,8 @@
+LƯU Ý KHI CHẠY CHƯƠNG TRÌNH
+
+1. Trong mã nguồn, một số đường dẫn file (ví dụ: input, output, ảnh, cơ sở dữ liệu, v.v.)
+   được gán cứng (hardcoded) theo đường dẫn trên máy tính cá nhân.
+
+2. Trong trường hợp khi chạy chương trình không chạy hoặc lỗi không tìm thấy file được do sai đường dẫn,
+   thầy/cô có thể sửa lại đường dẫn cho phù hợp với máy của mình,
+   hoặc đặt các file input/output trong cùng thư mục với file chạy chính.
